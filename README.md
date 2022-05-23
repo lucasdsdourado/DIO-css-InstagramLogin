@@ -1,4 +1,4 @@
-# Pagina Inicial do Instagram - CSS DIO 🙃
+# Pagina Inicial do Instagram - CSS DIO
 
 Exercício de CSS e html para finalização do módulo de Flex-box.
 
